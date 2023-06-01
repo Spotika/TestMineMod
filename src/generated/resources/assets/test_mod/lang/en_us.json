@@ -1,0 +1,5 @@
+{
+  "block.test_mod.ruby_ore": "Ruby ore",
+  "item.test_mod.ruby_ore_item": "Ruby ore",
+  "itemGroup.test_mod": "Test"
+}

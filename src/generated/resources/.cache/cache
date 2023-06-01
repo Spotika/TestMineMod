@@ -1,0 +1,8 @@
+9b62b8efdc318752d24da96ecdec5565e2af65e8 assets/test_mod/blockstates/ruby_ore.json
+7927389d94d1cbe65051c18334115ba0aec4271c assets/test_mod/lang/en_us.json
+67d9aba39d4a32e714ea2410415375d29ca928fd assets/test_mod/models/block/ruby_ore.json
+96e6d1a21d4aace75adaa1022a4bb3a821ba0dfc assets/test_mod/models/item/ruby_ore_item.json
+eb529eac235e1b35391effc3a88c4e8189bed3e4 data/forge/tags/blocks/ores.json
+51eaaa4d85fcd9d0fd9d7921c8de584012f546dc data/forge/tags/items/ores.json
+eb529eac235e1b35391effc3a88c4e8189bed3e4 data/minecraft/tags/blocks/mineable/pickaxe.json
+eb529eac235e1b35391effc3a88c4e8189bed3e4 data/minecraft/tags/blocks/needs_iron_tool.json
